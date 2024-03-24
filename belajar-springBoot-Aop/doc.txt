@@ -1,0 +1,10 @@
+https://docs.google.com/presentation/d/1pQ5k5SqbZyoNJilrDF5cvRVDa0611FPvdB5ADKKPTpE/edit#slide=id.g2389d649c39_0_127
+https://github.com/ProgrammerZamanNow/belajar-spring-aop/blob/main/src/main/java/programmerzamannow/aop/aspect/LogAspect.java
+
+Advise = aksi yang akan di lakukan terdiri dari beberapa cara  Before
+AfterReturning
+AfterThrowing
+After
+Around
+
+

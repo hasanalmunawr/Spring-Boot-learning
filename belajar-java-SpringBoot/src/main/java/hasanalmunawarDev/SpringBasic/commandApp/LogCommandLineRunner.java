@@ -1,0 +1,17 @@
+package hasanalmunawarDev.SpringBasic.commandApp;
+
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.stereotype.Component;
+
+import java.util.Arrays;
+
+@Slf4j
+@Component
+public class LogCommandLineRunner implements CommandApplication{
+
+    @Override
+    public void run(String... args) throws Exception {
+        log.info("Log Command Line Runner : {}", Arrays.toString(args));
+    }
+
+}

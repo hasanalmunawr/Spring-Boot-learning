@@ -1,0 +1,2 @@
+2024-02-21T15:23:02.969+07:00  WARN 6438 --- [main] h.belajarSpringLogging.LoggingTest       : Nothing special here
+2024-02-21T15:23:02.973+07:00 ERROR 6438 --- [main] h.belajarSpringLogging.LoggingTest       : I dont know anything
